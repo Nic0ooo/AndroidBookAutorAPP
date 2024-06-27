@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">API_APP</string>
+    <string name="instructions">Entrez un nom de livre pour connaitre son auteur.</string>
+    <string name="button_text">Rechercher des livres</string>
+    <string name="input_hint">Titre de livre</string>
+    <string name="loading">Chargement...</string>
+    <string name="no_search_term">Veuillez entrer un élément à rechercher</string>
+    <string name="no_network">Veuillez vérifier votre connexion réseau et réessayer.</string>
+    <string name="no_results">Aucun résultat, verifiez le nom du livre écrit </string>
+</resources>
